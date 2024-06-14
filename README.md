@@ -1,3 +1,5 @@
+
+---
 # 🏠 Property Trading Platform
 
 Welcome to the Property Trading Platform, a dynamic digital marketplace for real estate, structured similarly to a stock exchange. This innovative platform enables users to buy and sell real properties in real-time, integrating up-to-date market data with a user-friendly interface for efficient transaction management.
